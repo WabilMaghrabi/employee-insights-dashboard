@@ -29,4 +29,4 @@ This project delivers an interactive HR Analytics solution in Power BI designed 
 ---
 
 ## Project Files & Dataset
-- **[Download Power BI Dashboard (Employee%20Insights%20Dashboard.pbix)](#)** 
+-  **[Download / Power BI File](Employee%20Insights%20Dashboard.pbix)** 
